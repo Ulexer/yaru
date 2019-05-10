@@ -65,7 +65,9 @@ data_sources = [
   'key-layout.svg',
   'key-shift.svg',
   'key-shift-latched-uppercase.svg',
-  'key-shift-uppercase.svg'
+  'key-shift-uppercase.svg',
+  'activities.svg',
+  'system-search-symbolic.svg'
 ]
 
 # install static data files
